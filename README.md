@@ -46,7 +46,7 @@ I'm **Shaik Tippu Sultan**, a passionate developer based in **Bengaluru**. I lov
 
 <p>
 <a href = "https://www.linkedin.com/in/shaik-tippu-sultan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "shaiktippu296@yahoo.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href = "" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
+<a href = "mailto:shaiktippu296@yahoo.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "https://api.whatsapp.com/send?phone=9916978411&text=" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
 </p>
 
