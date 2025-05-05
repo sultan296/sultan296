@@ -34,7 +34,7 @@ I'm **Shaik Tippu Sultan**, a passionate developer based in **Bengaluru**. I lov
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultan296&amp;theme=radical&amp;hide_border=false" alt="">
   <br>
   <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultan296&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultan296&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true&amp;layout=compact" alt=""></p> 
 
 ## ❤ Views and Followers
 
