@@ -55,8 +55,8 @@ I'm **Shaik Tippu Sultan**, a passionate developer based in **Bengaluru**. I lov
 ## 🤝🏻 Connect with Me
 
 <p>
-<a href = "linkedin":"https://www.linkedin.com/in/shaik-tippu-sultan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.github.com/sridharrajaram" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-
+<a href = "https://www.linkedin.com/in/shaik-tippu-sultan/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.github.com/sridharrajaram" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
 </p>
 
