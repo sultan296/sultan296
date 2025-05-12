@@ -24,8 +24,8 @@ I'm **Shaik Tippu Sultan**, a passionate developer based in **Bengaluru**. I lov
 - [Image Search Engine](https://github.com/sultan296/image-search-engine)  
   Description: A simple and responsive image search engine powered by Google Search. This web app enables users to quickly find images based on their queries, with the option to load more results seamlessly. Built using modern front-end technologies, the project focuses on clean UI design and efficient search functionality.
 
-- [Product Page Design](https://github.com/sultan296/product-page-design)  
-  Description: A sleek and product page showcasing the Apple Beats Solo 4 On-Ear Wireless Headphones. Designed with a clean UI, this page highlights key features like spatial audio, long battery life (50 hours), and quick charge capabilities (10 minutes for 5 hours of playback). Users can select color options, adjust quantity, and add the product to their bag seamlessly. Built using HTML, CSS and JavaScript.
+- [To-Do-Lists](https://github.com/sultan296/to-do-lists)  
+  Description: I have developed this To-Do List website to help users efficiently manage their daily tasks. The website provides a simple and intuitive interface where users can add, organize, and track their to-do items. Designed with convenience in mind, it ensures productivity by keeping task lists easily accessible. Whether for personal or professional use, this tool enhances organization and workflow.
 
 ## ✨ Certifications
 
