@@ -18,8 +18,14 @@ I'm **Shaik Tippu Sultan**, a passionate developer based in **Bengaluru**. I lov
 
 ## 🚀 Top Projects
 
-- [Weather App](https://github.com/sultan296/ShaikTippuSultan)  
-  Description: A responsive weather application built with **HTML, CSS, and JavaScript**. It allows users to search for any city and receive live weather updates, including temperature, humidity, and wind speed.  
+- [Weather App](https://github.com/sultan296/weather-app)  
+  Description: A responsive weather application built with **HTML, CSS, and JavaScript**. It allows users to search for any city and receive live weather updates, including temperature, humidity, and wind speed.
+
+- [Image Search Engine](https://github.com/sultan296/image-search-engine)  
+  Description: A simple and responsive image search engine powered by Google Search. This web app enables users to quickly find images based on their queries, with the option to load more results seamlessly. Built using modern front-end technologies, the project focuses on clean UI design and efficient search functionality.
+
+- [Product Page Design](https://github.com/sultan296/product-page-design)  
+  Description: A sleek and product page showcasing the Apple Beats Solo 4 On-Ear Wireless Headphones. Designed with a clean UI, this page highlights key features like spatial audio, long battery life (50 hours), and quick charge capabilities (10 minutes for 5 hours of playback). Users can select color options, adjust quantity, and add the product to their bag seamlessly. Built using HTML, CSS and JavaScript.
 
 ## ✨ Certifications
 
@@ -28,9 +34,6 @@ I'm **Shaik Tippu Sultan**, a passionate developer based in **Bengaluru**. I lov
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sultan296&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
-  <br>
-  <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultan296&amp;theme=radical&amp;hide_border=false" alt="">
   <br>
   <br>
